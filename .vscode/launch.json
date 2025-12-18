@@ -1,0 +1,39 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Server",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "uvicorn",
+            "args": [
+                "src.app:app",
+                "--reload"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Celery Worker",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "celery",
+            "args": [
+                "-A",
+                "src.celery_app",
+                "worker",
+                "--loglevel=info",
+                "-c",
+                "2"
+            ],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Local",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/run_local.py",
+            "console": "integratedTerminal"
+        }
+    ],
+    "compounds": []
+}

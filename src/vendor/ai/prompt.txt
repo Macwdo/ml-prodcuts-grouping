@@ -1,0 +1,102 @@
+You are a **senior data normalization engineer**.
+
+I will provide **raw CSV-like data** that contains:
+
+* A **header line**
+* A few **example rows** (for context only)
+
+⚠️ **Important rules**
+
+* ❌ Do NOT parse, transform, or analyze row values.
+* ❌ Do NOT return product data.
+* ✅ Use rows **only to disambiguate header meaning** if necessary.
+* ✅ Your task is **ONLY to map the CSV headers** to a predefined schema.
+
+---
+
+### Target schema (fixed)
+
+```json
+{{
+  'name': 'string',
+  'description': 'string',
+  'price': 'string',
+  'brand': 'string',
+  'category': 'string',
+  'sku': 'string'
+}}
+```
+
+---
+
+### What you must do
+
+Given a CSV header like:
+
+```
+sku,nome_do_item,fabricante,caracteristicas,valor,ncm,unidade_medida,estoque
+```
+
+or:
+
+```
+codigo,produto,marca,descricao,preco,categoria,unidade
+```
+
+You must:
+
+1. **Infer the semantic meaning** of each header column.
+2. **Choose the best matching column** for each target schema field.
+3. **Return a JSON object** where:
+
+   * Keys = target schema fields
+   * Values = **original CSV header names**
+4. If a schema field **cannot be confidently mapped**, return `null`.
+
+---
+
+### Output rules (VERY IMPORTANT)
+
+* ✅ Output **ONLY valid JSON**
+* ❌ No explanations
+* ❌ No comments
+* ❌ No markdown
+* ❌ No extra text
+
+---
+
+### Your task
+
+#### Input data
+
+```
+header:
+{header}
+
+rows:
+{rows}
+```
+
+#### Output
+
+```json
+{{
+  'name': 'produto',
+  'description': 'descricao',
+  'price': 'preco',
+  'brand': 'marca',
+  'category': 'categoria',
+  'sku': 'unidade'
+}}
+```
+
+---
+
+### Additional guidance
+
+* Columns like `sku`, `codigo`, `id` → `'sku'`
+* Columns like `produto`, `nome`, `item`, `nome_do_item` → `'name'`
+* Columns like `descricao`, `caracteristicas`, `detalhes` → `'description'`
+* Columns like `preco`, `valor`, `price`, `amount` → `'price'`
+* Columns like `marca`, `fabricante`, `brand` → `'brand'`
+* Columns like `categoria`, `ncm`, `tipo` → `'category'`

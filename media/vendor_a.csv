@@ -1,0 +1,51 @@
+codigo,produto,marca,descricao,preco,categoria,unidade
+PROD001,Notebook Dell Inspiron 15 8GB,Dell,Notebook 15 polegadas Intel Core i5 8GB RAM 256GB SSD,3500.00,Eletrônicos,UN
+PROD002,Papel A4 500 folhas branco,Chamex,Papel sulfite branco 500 folhas 75g/m²,25.50,Office,RES
+PROD003,Caneta BIC Azul,BIC,Caneta esferográfica azul ponta média,2.50,Escritório,UN
+PROD004,Monitor LG 24 polegadas Full HD,LG,Monitor LED 24" Full HD 1920x1080 HDMI VGA,850.00,Eletrônicos,UN
+PROD005,Mesa Escritório Retangular 120cm,Allma,Mesa escritório retangular MDF 120x60cm branca,450.00,Móveis,UN
+PROD006,Cadeira Escritório Ergonômica,Allma,Cadeira ergonômica com apoio lombar e braços ajustáveis,680.00,Móveis,UN
+PROD007,Impressora HP LaserJet Pro,HP,Impressora laser monocromática 1200x1200dpi USB Wi-Fi,1200.00,Eletrônicos,UN
+PROD008,Teclado Logitech USB,Logitech,Teclado USB padrão ABNT2 português,95.00,Periféricos,UN
+PROD009,Mouse Óptico Logitech,Logitech,Mouse óptico USB 1000dpi 3 botões,45.00,Periféricos,UN
+PROD010,HD Externo 1TB Seagate,Seagate,HD externo USB 3.0 1TB portátil,350.00,Periféricos,UN
+PROD011,Smartphone Samsung Galaxy A54,Samsung,Smartphone 128GB 6GB RAM 6.4" Android 13,1899.00,Eletrônicos,UN
+PROD012,Fone de Ouvido JBL TWS,JBL,Fone de ouvido bluetooth True Wireless com case,299.00,Áudio,UN
+PROD013,Caixa de Som JBL Go 3,JBL,Caixa de som bluetooth portátil à prova d'água,199.00,Áudio,UN
+PROD014,Carregador USB-C 65W Samsung,Samsung,Carregador rápido USB-C 65W com cabo,89.00,Eletrônicos,UN
+PROD015,Suporte Notebook Ergonômico,Allma,Suporte para notebook ajustável alumínio até 17",150.00,Periféricos,UN
+PROD016,Papel A4 500 folhas reciclado,Chamex,Papel sulfite reciclado 500 folhas 75g/m²,22.90,Office,RES
+PROD017,Caneta BIC Preta,BIC,Caneta esferográfica preta ponta média,2.50,Escritório,UN
+PROD018,Caneta BIC Vermelha,BIC,Caneta esferográfica vermelha ponta média,2.50,Escritório,UN
+PROD019,Notebook Lenovo IdeaPad 3,Lenovo,Notebook 15.6" AMD Ryzen 5 8GB RAM 256GB SSD,3200.00,Eletrônicos,UN
+PROD020,Monitor Samsung 27 polegadas 4K,Samsung,Monitor LED 27" 4K UHD 3840x2160 HDMI DisplayPort,2100.00,Eletrônicos,UN
+PROD021,Impressora Epson EcoTank,Epson,Impressora jato de tinta tanque de tinta colorida Wi-Fi,850.00,Eletrônicos,UN
+PROD022,Mesa Escritório L 140cm,Allma,Mesa escritório formato L MDF 140x70cm preta,650.00,Móveis,UN
+PROD023,Cadeira Gamer RGB,Allma,Cadeira gamer com iluminação RGB e apoio para pescoço,990.00,Móveis,UN
+PROD024,Teclado Mecânico RGB,Logitech,Teclado mecânico RGB retroiluminado switches GX Blue,450.00,Periféricos,UN
+PROD025,Mouse Gamer RGB 16000dpi,Logitech,Mouse gamer RGB 16000dpi 6 botões programáveis,320.00,Periféricos,UN
+PROD026,Webcam Logitech C920 HD,Logitech,Webcam Full HD 1080p 30fps com microfone integrado,450.00,Periféricos,UN
+PROD027,SSD 500GB Kingston,Kingston,SSD SATA III 500GB 2.5" leitura 550MB/s escrita 520MB/s,250.00,Periféricos,UN
+PROD028,Memória RAM 8GB DDR4 Kingston,Kingston,Memória RAM DDR4 8GB 2666MHz notebook,180.00,Periféricos,UN
+PROD029,HD Interno 1TB Western Digital,Western Digital,HD interno 3.5" SATA III 7200rpm 1TB,280.00,Periféricos,UN
+PROD030,Tablet Samsung Galaxy Tab A9,Samsung,Tablet 8.7" 64GB Wi-Fi Android 13,899.00,Eletrônicos,UN
+PROD031,Fone de Ouvido Sony WH-1000XM4,Sony,Fone de ouvido over-ear bluetooth com cancelamento de ruído,1599.00,Áudio,UN
+PROD032,Caixa de Som Bluetooth JBL Flip 6,JBL,Caixa de som bluetooth portátil stereo 30W,499.00,Áudio,UN
+PROD033,Carregador Wireless 15W Samsung,Samsung,Carregador wireless rápido 15W com suporte,120.00,Eletrônicos,UN
+PROD034,Notebook Dell XPS 13,Dell,Notebook 13.3" Intel Core i7 16GB RAM 512GB SSD,7500.00,Eletrônicos,UN
+PROD035,Monitor Dell UltraSharp 27 polegadas,Dell,Monitor 27" 4K IPS 99% sRGB calibrado,3200.00,Eletrônicos,UN
+PROD036,Impressora HP OfficeJet Pro,HP,Impressora multifuncional jato de tinta colorida scanner Wi-Fi,650.00,Eletrônicos,UN
+PROD037,Mesa Escritório Compacta 100cm,Allma,Mesa escritório compacta MDF 100x50cm branca,320.00,Móveis,UN
+PROD038,Cadeira Executiva Couro,Allma,Cadeira executiva revestida em couro sintético preta,850.00,Móveis,UN
+PROD039,Teclado Sem Fio Logitech,Logitech,Teclado sem fio 2.4GHz padrão ABNT2 português,150.00,Periféricos,UN
+PROD040,Mouse Sem Fio Logitech,Logitech,Mouse sem fio 2.4GHz óptico 1000dpi,80.00,Periféricos,UN
+PROD041,HD Externo 2TB Western Digital,Western Digital,HD externo USB 3.0 2TB portátil preto,520.00,Periféricos,UN
+PROD042,Smartphone Xiaomi Redmi Note 12,Xiaomi,Smartphone 128GB 6GB RAM 6.43" Android 12,1299.00,Eletrônicos,UN
+PROD043,Fone de Ouvido Bluetooth Xiaomi,Xiaomi,Fone de ouvido bluetooth in-ear com case,99.00,Áudio,UN
+PROD044,Caixa de Som Bluetooth Xiaomi,Xiaomi,Caixa de som bluetooth portátil 16W,199.00,Áudio,UN
+PROD045,Carregador Rápido 33W Xiaomi,Xiaomi,Carregador rápido USB-C 33W com cabo,65.00,Eletrônicos,UN
+PROD046,Notebook Asus Vivobook 15,Asus,Notebook 15.6" Intel Core i5 8GB RAM 256GB SSD,2800.00,Eletrônicos,UN
+PROD047,Monitor Asus VG248QE 24 polegadas,Asus,Monitor LED 24" Full HD 144Hz 1ms gaming,1200.00,Eletrônicos,UN
+PROD048,Impressora Canon PIXMA G3010,Canon,Impressora tanque de tinta colorida scanner Wi-Fi,950.00,Eletrônicos,UN
+PROD049,Mesa Escritório com Gaveta 120cm,Allma,Mesa escritório com gaveta MDF 120x60cm branca,520.00,Móveis,UN
+PROD050,Cadeira Ergonômica Mesh,Allma,Cadeira ergonômica mesh preta com apoio lombar ajustável,750.00,Móveis,UN

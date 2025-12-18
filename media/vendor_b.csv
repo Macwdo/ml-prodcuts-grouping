@@ -1,0 +1,53 @@
+sku,nome_do_item,fabricante,caracteristicas,valor,ncm,unidade_medida,estoque
+SKU-789,Notebook Inspiron 15 8GB Intel i5,Dell,15.6" Intel Core i5 8GB RAM SSD 256GB Windows 11,3499.90,8471.30.00,UN,25
+SKU-790,Papel A4 500fls branco 75g,Chamex,Sulfite A4 branco 500 folhas gramatura 75g/m²,24.90,4802.56.00,RES,150
+SKU-791,Caneta BIC Azul ponta média,BIC,Esferográfica azul ponta média corpo transparente,2.45,Escritório,UN,500
+SKU-792,Monitor LG 24" Full HD,LG,LED 24 polegadas resolução 1920x1080 HDMI VGA DisplayPort,845.00,8528.52.00,UN,18
+SKU-793,Mesa Escritório 120x60cm,Allma,Retangular MDF branca 120cm largura 60cm profundidade,445.00,9403.30.00,UN,12
+SKU-794,Cadeira Escritório Ergonômica Allma,Allma,Ergonômica apoio lombar braços ajustáveis rodízios,675.00,9401.30.00,UN,15
+SKU-795,Impressora Laser HP Pro M15w,HP,Laser monocromática 1200dpi USB Wi-Fi impressão rápida,1195.00,8443.32.00,UN,8
+SKU-796,Teclado USB Logitech ABNT2,Logitech,USB padrão brasileiro ABNT2 português layout,92.50,8471.60.00,UN,45
+SKU-797,Mouse USB Logitech óptico,Logitech,Óptico USB 1000dpi 3 botões scroll,42.90,8471.60.00,UN,50
+SKU-798,HD Externo Seagate 1TB USB 3.0,Seagate,Externo portátil USB 3.0 1TB preto compacto,345.00,8471.70.00,UN,20
+SKU-799,Smartphone Galaxy A54 128GB,Samsung,128GB 6GB RAM 6.4" tela Super AMOLED Android 13,1895.00,8517.12.00,UN,10
+SKU-800,Fone JBL True Wireless TWS,JBL,Bluetooth True Wireless com case carregamento,295.00,8518.30.00,UN,30
+SKU-801,Caixa Som JBL Go 3 Bluetooth,JBL,Bluetooth portátil à prova d'água IPX7 potência,195.00,8518.22.00,UN,25
+SKU-802,Carregador Samsung 65W USB-C,Samsung,Rápido USB-C 65W com cabo 1.5m branco,85.00,8504.40.00,UN,40
+SKU-803,Suporte Notebook Alumínio,Allma,Ajustável alumínio suporta até 17 polegadas altura,148.00,8471.60.00,UN,30
+SKU-804,Papel A4 500 folhas reciclado Chamex,Chamex,Sulfite reciclado A4 500 folhas 75g/m²,22.50,4802.56.00,RES,80
+SKU-805,Caneta BIC Preta média,BIC,Esferográfica preta ponta média corpo transparente,2.45,Escritório,UN,500
+SKU-806,Caneta BIC Vermelha média,BIC,Esferográfica vermelha ponta média corpo transparente,2.45,Escritório,UN,500
+SKU-807,Notebook IdeaPad 3 Lenovo 15.6",Lenovo,15.6" AMD Ryzen 5 8GB RAM SSD 256GB Windows 11,3195.00,8471.30.00,UN,12
+SKU-808,Monitor Samsung 27" 4K UHD,Samsung,LED 27 polegadas 4K resolução 3840x2160 HDMI DP,2095.00,8528.52.00,UN,6
+SKU-809,Impressora Epson EcoTank L3150,Epson,Jato de tinta tanque colorida Wi-Fi scanner,840.00,8443.32.00,UN,10
+SKU-810,Mesa Escritório Formato L 140cm,Allma,Formato L MDF preta 140cm largura 70cm profundidade,645.00,9403.30.00,UN,8
+SKU-811,Cadeira Gamer RGB Allma,Allma,Gamer iluminação RGB apoio pescoço lombar ajustável,985.00,9401.30.00,UN,5
+SKU-812,Teclado Mecânico RGB Logitech G Pro,Logitech,Mecânico RGB retroiluminado switches mecânicos GX,445.00,8471.60.00,UN,15
+SKU-813,Mouse Gamer RGB Logitech 16000dpi,Logitech,Gamer RGB 16000dpi 6 botões programáveis peso,315.00,8471.60.00,UN,20
+SKU-814,Webcam Logitech C920 Full HD,Logitech,Full HD 1080p 30fps microfone estéreo integrado,445.00,8525.80.00,UN,12
+SKU-815,SSD Kingston 500GB SATA,Kingston,SATA III 2.5" 500GB leitura 550MB/s escrita 520MB/s,245.00,8471.70.00,UN,25
+SKU-816,Memória RAM Kingston 8GB DDR4,Kingston,DDR4 8GB 2666MHz notebook SODIMM compatível,175.00,8471.70.00,UN,30
+SKU-817,HD Interno WD 1TB 3.5",Western Digital,Interno 3.5" SATA III 7200rpm 1TB cache 64MB,275.00,8471.70.00,UN,20
+SKU-818,Tablet Galaxy Tab A9 8.7" Samsung,Samsung,8.7" 64GB Wi-Fi Android 13 tela HD processador,895.00,8471.30.00,UN,8
+SKU-819,Fone Over-Ear Sony WH1000XM4,Sony,Over-ear bluetooth cancelamento ruído ativo bateria,1595.00,8518.30.00,UN,4
+SKU-820,Caixa Som JBL Flip 6 Bluetooth,JBL,Bluetooth portátil stereo 30W à prova d'água IPX7,495.00,8518.22.00,UN,15
+SKU-821,Carregador Wireless Samsung 15W,Samsung,Wireless rápido 15W suporte ajustável LED,115.00,8504.40.00,UN,25
+SKU-822,Notebook Dell XPS 13 Intel i7,Dell,13.3" Intel Core i7 16GB RAM SSD 512GB tela 4K,7495.00,8471.30.00,UN,3
+SKU-823,Monitor Dell UltraSharp 27" 4K,Dell,27" 4K IPS 99% sRGB calibrado fábrica USB-C,3195.00,8528.52.00,UN,4
+SKU-824,Impressora HP OfficeJet Pro 9015,HP,Multifuncional jato de tinta colorida scanner Wi-Fi,645.00,8443.32.00,UN,8
+SKU-825,Mesa Escritório Compacta 100cm Allma,Allma,Compacta MDF branca 100cm largura 50cm profundidade,315.00,9403.30.00,UN,18
+SKU-826,Cadeira Executiva Couro Sintético,Allma,Executiva revestida couro sintético preta braços,845.00,9401.30.00,UN,10
+SKU-827,Teclado Sem Fio Logitech 2.4GHz,Logitech,Sem fio 2.4GHz padrão ABNT2 português bateria,145.00,8471.60.00,UN,35
+SKU-828,Mouse Sem Fio Logitech 2.4GHz,Logitech,Sem fio 2.4GHz óptico 1000dpi bateria longa,78.50,8471.60.00,UN,40
+SKU-829,HD Externo WD 2TB USB 3.0,Western Digital,Externo portátil USB 3.0 2TB preto compacto,515.00,8471.70.00,UN,15
+SKU-830,Smartphone Redmi Note 12 128GB Xiaomi,Xiaomi,128GB 6GB RAM 6.43" AMOLED Android 12 câmera,1295.00,8517.12.00,UN,12
+SKU-831,Fone Bluetooth In-Ear Xiaomi,Xiaomi,Bluetooth in-ear com case carregamento carga rápida,95.00,8518.30.00,UN,50
+SKU-832,Caixa Som Bluetooth Xiaomi 16W,Xiaomi,Bluetooth portátil 16W bateria longa duração,195.00,8518.22.00,UN,30
+SKU-833,Carregador Rápido Xiaomi 33W USB-C,Xiaomi,Rápido USB-C 33W com cabo 1m compatível,62.90,8504.40.00,UN,60
+SKU-834,Notebook Asus Vivobook 15.6" Intel,Asus,15.6" Intel Core i5 8GB RAM SSD 256GB Windows 11,2795.00,8471.30.00,UN,10
+SKU-835,Monitor Asus VG248QE 24" 144Hz,Asus,LED 24" Full HD 144Hz 1ms resposta gaming FreeSync,1195.00,8528.52.00,UN,8
+SKU-836,Impressora Canon PIXMA G3010 Tanque,Canon,Tanque de tinta colorida scanner Wi-Fi impressão,945.00,8443.32.00,UN,6
+SKU-837,Mesa Escritório c/ Gaveta 120cm,Allma,Com gaveta MDF branca 120cm largura 60cm profundidade,515.00,9403.30.00,UN,14
+SKU-838,Cadeira Ergonômica Mesh Allma,Allma,Ergonômica mesh preta apoio lombar ajustável rodízios,745.00,9401.30.00,UN,12
+SKU-839,Monitor LG UltraWide 29 polegadas,LG,LED UltraWide 29" 2560x1080 HDMI DisplayPort USB-C,1250.00,8528.52.00,UN,7
+SKU-840,Notebook MacBook Air M1 13.3",Apple,13.3" chip M1 8GB RAM SSD 256GB tela Retina,6999.00,8471.30.00,UN,2

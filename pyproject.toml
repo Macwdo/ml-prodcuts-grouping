@@ -1,0 +1,91 @@
+[project]
+name = "ml-products-grouping"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alembic>=1.17.2",
+    "asyncpg>=0.31.0",
+    "boto3>=1.42.9",
+    "celery[sqs]>=5.6.0",
+    "fastapi[standard]>=0.124.4",
+    "hdbscan>=0.8.41",
+    "httpx>=0.28.1",
+    "langchain[openai]>=1.2.0",
+    "matplotlib>=3.10.8",
+    "openai>=2.11.0",
+    "pgvector>=0.4.2",
+    "pycurl>=7.45.7",
+    "pydantic>=2.12.5",
+    "pydantic-settings>=2.12.0",
+    "python-dotenv>=1.2.1",
+    "sqlalchemy[asyncio]>=2.0.45",
+    "tokenizer>=3.6.2",
+    "umap-learn>=0.5.9.post2",
+]
+
+[dependency-groups]
+dev = [
+    "ipdb>=0.13.13",
+    "ipykernel>=7.1.0",
+    "pre-commit>=4.5.0",
+    "pytest>=9.0.2",
+    "pytest-async>=0.1.1",
+    "pytest-asyncio>=0.24.0",
+    "ruff>=0.14.9",
+]
+
+
+[tool.ruff]
+target-version = "py313"
+
+exclude = ["__pycache__", ".git", ".venv", "build", "dist", "alembic/**"]
+include = ["**/*.py", "**/*.pyi"]
+
+# Include all files
+line-length = 131
+
+# Allow autofix on save if using an editor integration
+fix = true
+
+# Enable new formatting rules
+preview = true
+
+
+[tool.ruff.lint]
+# Enable type checking rules
+typing-modules = ["typing", "typing_extensions"]
+
+# Enable all recommended rules
+select = [
+    "E",    # pycodestyle errors
+    "F",    # pyflakes (includes unused imports, variables)
+    "I",    # isort
+    "UP",   # pyupgrade (modernize code based on Python version)
+    "B",    # bugbear (code smell & security)
+    "ARG",  # unused function arguments
+    "TID",  # tidy imports
+    "RUF",  # ruff-specific rules
+    "SIM",  # simplify complex expressions
+    "C4",   # comprehensions
+    "ERA",  # eradicate commented-out code
+    "PIE",  # misc useful rules
+    "PERF", # performance issues
+]
+
+ignore = ["ERA001"]
+
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+docstring-code-format = true
+docstring-code-line-length = "dynamic"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+addopts = ["--durations=0", "--tb=long", "-v"]
+asyncio_mode = "auto"
