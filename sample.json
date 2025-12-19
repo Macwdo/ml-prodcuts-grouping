@@ -1,0 +1,844 @@
+{
+    "count": 11,
+    "group_processing_id": 2,
+    "items": [
+        {
+            "group_id": 4,
+            "products": [
+                {
+                    "id": 3,
+                    "name": "Caneta BIC Azul",
+                    "price": 2.5,
+                    "description": "Caneta esferográfica azul ponta média",
+                    "brand": "BIC",
+                    "category": "Escritório",
+                    "sku": "PROD003"
+                },
+                {
+                    "id": 17,
+                    "name": "Caneta BIC Preta",
+                    "price": 2.5,
+                    "description": "Caneta esferográfica preta ponta média",
+                    "brand": "BIC",
+                    "category": "Escritório",
+                    "sku": "PROD017"
+                },
+                {
+                    "id": 18,
+                    "name": "Caneta BIC Vermelha",
+                    "price": 2.5,
+                    "description": "Caneta esferográfica vermelha ponta média",
+                    "brand": "BIC",
+                    "category": "Escritório",
+                    "sku": "PROD018"
+                },
+                {
+                    "id": 53,
+                    "name": "Caneta BIC Azul ponta média",
+                    "price": 2.45,
+                    "description": "Esferográfica azul ponta média corpo transparente",
+                    "brand": "BIC",
+                    "category": null,
+                    "sku": "SKU-791"
+                },
+                {
+                    "id": 67,
+                    "name": "Caneta BIC Preta média",
+                    "price": 2.45,
+                    "description": "Esferográfica preta ponta média corpo transparente",
+                    "brand": "BIC",
+                    "category": null,
+                    "sku": "SKU-805"
+                },
+                {
+                    "id": 68,
+                    "name": "Caneta BIC Vermelha média",
+                    "price": 2.45,
+                    "description": "Esferográfica vermelha ponta média corpo transparente",
+                    "brand": "BIC",
+                    "category": null,
+                    "sku": "SKU-806"
+                }
+            ]
+        },
+        {
+            "group_id": 5,
+            "products": [
+                {
+                    "id": 15,
+                    "name": "Suporte Notebook Ergonômico",
+                    "price": 150.0,
+                    "description": "Suporte para notebook ajustável alumínio até 17\"",
+                    "brand": "Allma",
+                    "category": "Periféricos",
+                    "sku": "PROD015"
+                },
+                {
+                    "id": 6,
+                    "name": "Cadeira Escritório Ergonômica",
+                    "price": 680.0,
+                    "description": "Cadeira ergonômica com apoio lombar e braços ajustáveis",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD006"
+                },
+                {
+                    "id": 23,
+                    "name": "Cadeira Gamer RGB",
+                    "price": 990.0,
+                    "description": "Cadeira gamer com iluminação RGB e apoio para pescoço",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD023"
+                },
+                {
+                    "id": 38,
+                    "name": "Cadeira Executiva Couro",
+                    "price": 850.0,
+                    "description": "Cadeira executiva revestida em couro sintético preta",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD038"
+                },
+                {
+                    "id": 50,
+                    "name": "Cadeira Ergonômica Mesh",
+                    "price": 750.0,
+                    "description": "Cadeira ergonômica mesh preta com apoio lombar ajustável",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD050"
+                },
+                {
+                    "id": 56,
+                    "name": "Cadeira Escritório Ergonômica Allma",
+                    "price": 675.0,
+                    "description": "Ergonômica apoio lombar braços ajustáveis rodízios",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-794"
+                },
+                {
+                    "id": 73,
+                    "name": "Cadeira Gamer RGB Allma",
+                    "price": 985.0,
+                    "description": "Gamer iluminação RGB apoio pescoço lombar ajustável",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-811"
+                },
+                {
+                    "id": 88,
+                    "name": "Cadeira Executiva Couro Sintético",
+                    "price": 845.0,
+                    "description": "Executiva revestida couro sintético preta braços",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-826"
+                },
+                {
+                    "id": 100,
+                    "name": "Cadeira Ergonômica Mesh Allma",
+                    "price": 745.0,
+                    "description": "Ergonômica mesh preta apoio lombar ajustável rodízios",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-838"
+                }
+            ]
+        },
+        {
+            "group_id": 6,
+            "products": [
+                {
+                    "id": 20,
+                    "name": "Monitor Samsung 27 polegadas 4K",
+                    "price": 2100.0,
+                    "description": "Monitor LED 27\" 4K UHD 3840x2160 HDMI DisplayPort",
+                    "brand": "Samsung",
+                    "category": "Eletrônicos",
+                    "sku": "PROD020"
+                },
+                {
+                    "id": 47,
+                    "name": "Monitor Asus VG248QE 24 polegadas",
+                    "price": 1200.0,
+                    "description": "Monitor LED 24\" Full HD 144Hz 1ms gaming",
+                    "brand": "Asus",
+                    "category": "Eletrônicos",
+                    "sku": "PROD047"
+                },
+                {
+                    "id": 4,
+                    "name": "Monitor LG 24 polegadas Full HD",
+                    "price": 850.0,
+                    "description": "Monitor LED 24\" Full HD 1920x1080 HDMI VGA",
+                    "brand": "LG",
+                    "category": "Eletrônicos",
+                    "sku": "PROD004"
+                },
+                {
+                    "id": 35,
+                    "name": "Monitor Dell UltraSharp 27 polegadas",
+                    "price": 3200.0,
+                    "description": "Monitor 27\" 4K IPS 99% sRGB calibrado",
+                    "brand": "Dell",
+                    "category": "Eletrônicos",
+                    "sku": "PROD035"
+                },
+                {
+                    "id": 54,
+                    "name": "Monitor LG 24\" Full HD",
+                    "price": 845.0,
+                    "description": "LED 24 polegadas resolução 1920x1080 HDMI VGA DisplayPort",
+                    "brand": "LG",
+                    "category": null,
+                    "sku": "SKU-792"
+                },
+                {
+                    "id": 70,
+                    "name": "Monitor Samsung 27\" 4K UHD",
+                    "price": 2095.0,
+                    "description": "LED 27 polegadas 4K resolução 3840x2160 HDMI DP",
+                    "brand": "Samsung",
+                    "category": null,
+                    "sku": "SKU-808"
+                },
+                {
+                    "id": 85,
+                    "name": "Monitor Dell UltraSharp 27\" 4K",
+                    "price": 3195.0,
+                    "description": "27\" 4K IPS 99% sRGB calibrado fábrica USB-C",
+                    "brand": "Dell",
+                    "category": null,
+                    "sku": "SKU-823"
+                },
+                {
+                    "id": 97,
+                    "name": "Monitor Asus VG248QE 24\" 144Hz",
+                    "price": 1195.0,
+                    "description": "LED 24\" Full HD 144Hz 1ms resposta gaming FreeSync",
+                    "brand": "Asus",
+                    "category": null,
+                    "sku": "SKU-835"
+                },
+                {
+                    "id": 101,
+                    "name": "Monitor LG UltraWide 29 polegadas",
+                    "price": 1250.0,
+                    "description": "LED UltraWide 29\" 2560x1080 HDMI DisplayPort USB-C",
+                    "brand": "LG",
+                    "category": null,
+                    "sku": "SKU-839"
+                }
+            ]
+        },
+        {
+            "group_id": 7,
+            "products": [
+                {
+                    "id": 21,
+                    "name": "Impressora Epson EcoTank",
+                    "price": 850.0,
+                    "description": "Impressora jato de tinta tanque de tinta colorida Wi-Fi",
+                    "brand": "Epson",
+                    "category": "Eletrônicos",
+                    "sku": "PROD021"
+                },
+                {
+                    "id": 36,
+                    "name": "Impressora HP OfficeJet Pro",
+                    "price": 650.0,
+                    "description": "Impressora multifuncional jato de tinta colorida scanner Wi-Fi",
+                    "brand": "HP",
+                    "category": "Eletrônicos",
+                    "sku": "PROD036"
+                },
+                {
+                    "id": 48,
+                    "name": "Impressora Canon PIXMA G3010",
+                    "price": 950.0,
+                    "description": "Impressora tanque de tinta colorida scanner Wi-Fi",
+                    "brand": "Canon",
+                    "category": "Eletrônicos",
+                    "sku": "PROD048"
+                },
+                {
+                    "id": 7,
+                    "name": "Impressora HP LaserJet Pro",
+                    "price": 1200.0,
+                    "description": "Impressora laser monocromática 1200x1200dpi USB Wi-Fi",
+                    "brand": "HP",
+                    "category": "Eletrônicos",
+                    "sku": "PROD007"
+                },
+                {
+                    "id": 57,
+                    "name": "Impressora Laser HP Pro M15w",
+                    "price": 1195.0,
+                    "description": "Laser monocromática 1200dpi USB Wi-Fi impressão rápida",
+                    "brand": "HP",
+                    "category": null,
+                    "sku": "SKU-795"
+                },
+                {
+                    "id": 71,
+                    "name": "Impressora Epson EcoTank L3150",
+                    "price": 840.0,
+                    "description": "Jato de tinta tanque colorida Wi-Fi scanner",
+                    "brand": "Epson",
+                    "category": null,
+                    "sku": "SKU-809"
+                },
+                {
+                    "id": 86,
+                    "name": "Impressora HP OfficeJet Pro 9015",
+                    "price": 645.0,
+                    "description": "Multifuncional jato de tinta colorida scanner Wi-Fi",
+                    "brand": "HP",
+                    "category": null,
+                    "sku": "SKU-824"
+                },
+                {
+                    "id": 98,
+                    "name": "Impressora Canon PIXMA G3010 Tanque",
+                    "price": 945.0,
+                    "description": "Tanque de tinta colorida scanner Wi-Fi impressão",
+                    "brand": "Canon",
+                    "category": null,
+                    "sku": "SKU-836"
+                }
+            ]
+        },
+        {
+            "group_id": 8,
+            "products": [
+                {
+                    "id": 33,
+                    "name": "Carregador Wireless 15W Samsung",
+                    "price": 120.0,
+                    "description": "Carregador wireless rápido 15W com suporte",
+                    "brand": "Samsung",
+                    "category": "Eletrônicos",
+                    "sku": "PROD033"
+                },
+                {
+                    "id": 14,
+                    "name": "Carregador USB-C 65W Samsung",
+                    "price": 89.0,
+                    "description": "Carregador rápido USB-C 65W com cabo",
+                    "brand": "Samsung",
+                    "category": "Eletrônicos",
+                    "sku": "PROD014"
+                },
+                {
+                    "id": 45,
+                    "name": "Carregador Rápido 33W Xiaomi",
+                    "price": 65.0,
+                    "description": "Carregador rápido USB-C 33W com cabo",
+                    "brand": "Xiaomi",
+                    "category": "Eletrônicos",
+                    "sku": "PROD045"
+                },
+                {
+                    "id": 64,
+                    "name": "Carregador Samsung 65W USB-C",
+                    "price": 85.0,
+                    "description": "Rápido USB-C 65W com cabo 1.5m branco",
+                    "brand": "Samsung",
+                    "category": null,
+                    "sku": "SKU-802"
+                },
+                {
+                    "id": 83,
+                    "name": "Carregador Wireless Samsung 15W",
+                    "price": 115.0,
+                    "description": "Wireless rápido 15W suporte ajustável LED",
+                    "brand": "Samsung",
+                    "category": null,
+                    "sku": "SKU-821"
+                },
+                {
+                    "id": 95,
+                    "name": "Carregador Rápido Xiaomi 33W USB-C",
+                    "price": 62.9,
+                    "description": "Rápido USB-C 33W com cabo 1m compatível",
+                    "brand": "Xiaomi",
+                    "category": null,
+                    "sku": "SKU-833"
+                }
+            ]
+        },
+        {
+            "group_id": 9,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Notebook Dell Inspiron 15 8GB",
+                    "price": 3500.0,
+                    "description": "Notebook 15 polegadas Intel Core i5 8GB RAM 256GB SSD",
+                    "brand": "Dell",
+                    "category": "Eletrônicos",
+                    "sku": "PROD001"
+                },
+                {
+                    "id": 19,
+                    "name": "Notebook Lenovo IdeaPad 3",
+                    "price": 3200.0,
+                    "description": "Notebook 15.6\" AMD Ryzen 5 8GB RAM 256GB SSD",
+                    "brand": "Lenovo",
+                    "category": "Eletrônicos",
+                    "sku": "PROD019"
+                },
+                {
+                    "id": 34,
+                    "name": "Notebook Dell XPS 13",
+                    "price": 7500.0,
+                    "description": "Notebook 13.3\" Intel Core i7 16GB RAM 512GB SSD",
+                    "brand": "Dell",
+                    "category": "Eletrônicos",
+                    "sku": "PROD034"
+                },
+                {
+                    "id": 46,
+                    "name": "Notebook Asus Vivobook 15",
+                    "price": 2800.0,
+                    "description": "Notebook 15.6\" Intel Core i5 8GB RAM 256GB SSD",
+                    "brand": "Asus",
+                    "category": "Eletrônicos",
+                    "sku": "PROD046"
+                },
+                {
+                    "id": 51,
+                    "name": "Notebook Inspiron 15 8GB Intel i5",
+                    "price": 3499.9,
+                    "description": "15.6\" Intel Core i5 8GB RAM SSD 256GB Windows 11",
+                    "brand": "Dell",
+                    "category": null,
+                    "sku": "SKU-789"
+                },
+                {
+                    "id": 69,
+                    "name": "Notebook IdeaPad 3 Lenovo 15.6\"",
+                    "price": 3195.0,
+                    "description": "15.6\" AMD Ryzen 5 8GB RAM SSD 256GB Windows 11",
+                    "brand": "Lenovo",
+                    "category": null,
+                    "sku": "SKU-807"
+                },
+                {
+                    "id": 84,
+                    "name": "Notebook Dell XPS 13 Intel i7",
+                    "price": 7495.0,
+                    "description": "13.3\" Intel Core i7 16GB RAM SSD 512GB tela 4K",
+                    "brand": "Dell",
+                    "category": null,
+                    "sku": "SKU-822"
+                },
+                {
+                    "id": 96,
+                    "name": "Notebook Asus Vivobook 15.6\" Intel",
+                    "price": 2795.0,
+                    "description": "15.6\" Intel Core i5 8GB RAM SSD 256GB Windows 11",
+                    "brand": "Asus",
+                    "category": null,
+                    "sku": "SKU-834"
+                },
+                {
+                    "id": 102,
+                    "name": "Notebook MacBook Air M1 13.3\"",
+                    "price": 6999.0,
+                    "description": "13.3\" chip M1 8GB RAM SSD 256GB tela Retina",
+                    "brand": "Apple",
+                    "category": null,
+                    "sku": "SKU-840"
+                }
+            ]
+        },
+        {
+            "group_id": 10,
+            "products": [
+                {
+                    "id": 10,
+                    "name": "HD Externo 1TB Seagate",
+                    "price": 350.0,
+                    "description": "HD externo USB 3.0 1TB portátil",
+                    "brand": "Seagate",
+                    "category": "Periféricos",
+                    "sku": "PROD010"
+                },
+                {
+                    "id": 27,
+                    "name": "SSD 500GB Kingston",
+                    "price": 250.0,
+                    "description": "SSD SATA III 500GB 2.5\" leitura 550MB/s escrita 520MB/s",
+                    "brand": "Kingston",
+                    "category": "Periféricos",
+                    "sku": "PROD027"
+                },
+                {
+                    "id": 28,
+                    "name": "Memória RAM 8GB DDR4 Kingston",
+                    "price": 180.0,
+                    "description": "Memória RAM DDR4 8GB 2666MHz notebook",
+                    "brand": "Kingston",
+                    "category": "Periféricos",
+                    "sku": "PROD028"
+                },
+                {
+                    "id": 29,
+                    "name": "HD Interno 1TB Western Digital",
+                    "price": 280.0,
+                    "description": "HD interno 3.5\" SATA III 7200rpm 1TB",
+                    "brand": "Western Digital",
+                    "category": "Periféricos",
+                    "sku": "PROD029"
+                },
+                {
+                    "id": 41,
+                    "name": "HD Externo 2TB Western Digital",
+                    "price": 520.0,
+                    "description": "HD externo USB 3.0 2TB portátil preto",
+                    "brand": "Western Digital",
+                    "category": "Periféricos",
+                    "sku": "PROD041"
+                },
+                {
+                    "id": 60,
+                    "name": "HD Externo Seagate 1TB USB 3.0",
+                    "price": 345.0,
+                    "description": "Externo portátil USB 3.0 1TB preto compacto",
+                    "brand": "Seagate",
+                    "category": null,
+                    "sku": "SKU-798"
+                },
+                {
+                    "id": 77,
+                    "name": "SSD Kingston 500GB SATA",
+                    "price": 245.0,
+                    "description": "SATA III 2.5\" 500GB leitura 550MB/s escrita 520MB/s",
+                    "brand": "Kingston",
+                    "category": null,
+                    "sku": "SKU-815"
+                },
+                {
+                    "id": 79,
+                    "name": "HD Interno WD 1TB 3.5\"",
+                    "price": 275.0,
+                    "description": "Interno 3.5\" SATA III 7200rpm 1TB cache 64MB",
+                    "brand": "Western Digital",
+                    "category": null,
+                    "sku": "SKU-817"
+                },
+                {
+                    "id": 91,
+                    "name": "HD Externo WD 2TB USB 3.0",
+                    "price": 515.0,
+                    "description": "Externo portátil USB 3.0 2TB preto compacto",
+                    "brand": "Western Digital",
+                    "category": null,
+                    "sku": "SKU-829"
+                }
+            ]
+        },
+        {
+            "group_id": 11,
+            "products": [
+                {
+                    "id": 11,
+                    "name": "Smartphone Samsung Galaxy A54",
+                    "price": 1899.0,
+                    "description": "Smartphone 128GB 6GB RAM 6.4\" Android 13",
+                    "brand": "Samsung",
+                    "category": "Eletrônicos",
+                    "sku": "PROD011"
+                },
+                {
+                    "id": 30,
+                    "name": "Tablet Samsung Galaxy Tab A9",
+                    "price": 899.0,
+                    "description": "Tablet 8.7\" 64GB Wi-Fi Android 13",
+                    "brand": "Samsung",
+                    "category": "Eletrônicos",
+                    "sku": "PROD030"
+                },
+                {
+                    "id": 42,
+                    "name": "Smartphone Xiaomi Redmi Note 12",
+                    "price": 1299.0,
+                    "description": "Smartphone 128GB 6GB RAM 6.43\" Android 12",
+                    "brand": "Xiaomi",
+                    "category": "Eletrônicos",
+                    "sku": "PROD042"
+                },
+                {
+                    "id": 61,
+                    "name": "Smartphone Galaxy A54 128GB",
+                    "price": 1895.0,
+                    "description": "128GB 6GB RAM 6.4\" tela Super AMOLED Android 13",
+                    "brand": "Samsung",
+                    "category": null,
+                    "sku": "SKU-799"
+                }
+            ]
+        },
+        {
+            "group_id": 12,
+            "products": [
+                {
+                    "id": 5,
+                    "name": "Mesa Escritório Retangular 120cm",
+                    "price": 450.0,
+                    "description": "Mesa escritório retangular MDF 120x60cm branca",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD005"
+                },
+                {
+                    "id": 22,
+                    "name": "Mesa Escritório L 140cm",
+                    "price": 650.0,
+                    "description": "Mesa escritório formato L MDF 140x70cm preta",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD022"
+                },
+                {
+                    "id": 37,
+                    "name": "Mesa Escritório Compacta 100cm",
+                    "price": 320.0,
+                    "description": "Mesa escritório compacta MDF 100x50cm branca",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD037"
+                },
+                {
+                    "id": 49,
+                    "name": "Mesa Escritório com Gaveta 120cm",
+                    "price": 520.0,
+                    "description": "Mesa escritório com gaveta MDF 120x60cm branca",
+                    "brand": "Allma",
+                    "category": "Móveis",
+                    "sku": "PROD049"
+                },
+                {
+                    "id": 55,
+                    "name": "Mesa Escritório 120x60cm",
+                    "price": 445.0,
+                    "description": "Retangular MDF branca 120cm largura 60cm profundidade",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-793"
+                },
+                {
+                    "id": 72,
+                    "name": "Mesa Escritório Formato L 140cm",
+                    "price": 645.0,
+                    "description": "Formato L MDF preta 140cm largura 70cm profundidade",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-810"
+                },
+                {
+                    "id": 87,
+                    "name": "Mesa Escritório Compacta 100cm Allma",
+                    "price": 315.0,
+                    "description": "Compacta MDF branca 100cm largura 50cm profundidade",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-825"
+                },
+                {
+                    "id": 99,
+                    "name": "Mesa Escritório c/ Gaveta 120cm",
+                    "price": 515.0,
+                    "description": "Com gaveta MDF branca 120cm largura 60cm profundidade",
+                    "brand": "Allma",
+                    "category": null,
+                    "sku": "SKU-837"
+                }
+            ]
+        },
+        {
+            "group_id": 13,
+            "products": [
+                {
+                    "id": 9,
+                    "name": "Mouse Óptico Logitech",
+                    "price": 45.0,
+                    "description": "Mouse óptico USB 1000dpi 3 botões",
+                    "brand": "Logitech",
+                    "category": "Periféricos",
+                    "sku": "PROD009"
+                },
+                {
+                    "id": 25,
+                    "name": "Mouse Gamer RGB 16000dpi",
+                    "price": 320.0,
+                    "description": "Mouse gamer RGB 16000dpi 6 botões programáveis",
+                    "brand": "Logitech",
+                    "category": "Periféricos",
+                    "sku": "PROD025"
+                },
+                {
+                    "id": 39,
+                    "name": "Teclado Sem Fio Logitech",
+                    "price": 150.0,
+                    "description": "Teclado sem fio 2.4GHz padrão ABNT2 português",
+                    "brand": "Logitech",
+                    "category": "Periféricos",
+                    "sku": "PROD039"
+                },
+                {
+                    "id": 40,
+                    "name": "Mouse Sem Fio Logitech",
+                    "price": 80.0,
+                    "description": "Mouse sem fio 2.4GHz óptico 1000dpi",
+                    "brand": "Logitech",
+                    "category": "Periféricos",
+                    "sku": "PROD040"
+                },
+                {
+                    "id": 59,
+                    "name": "Mouse USB Logitech óptico",
+                    "price": 42.9,
+                    "description": "Óptico USB 1000dpi 3 botões scroll",
+                    "brand": "Logitech",
+                    "category": null,
+                    "sku": "SKU-797"
+                },
+                {
+                    "id": 74,
+                    "name": "Teclado Mecânico RGB Logitech G Pro",
+                    "price": 445.0,
+                    "description": "Mecânico RGB retroiluminado switches mecânicos GX",
+                    "brand": "Logitech",
+                    "category": null,
+                    "sku": "SKU-812"
+                },
+                {
+                    "id": 75,
+                    "name": "Mouse Gamer RGB Logitech 16000dpi",
+                    "price": 315.0,
+                    "description": "Gamer RGB 16000dpi 6 botões programáveis peso",
+                    "brand": "Logitech",
+                    "category": null,
+                    "sku": "SKU-813"
+                },
+                {
+                    "id": 89,
+                    "name": "Teclado Sem Fio Logitech 2.4GHz",
+                    "price": 145.0,
+                    "description": "Sem fio 2.4GHz padrão ABNT2 português bateria",
+                    "brand": "Logitech",
+                    "category": null,
+                    "sku": "SKU-827"
+                },
+                {
+                    "id": 90,
+                    "name": "Mouse Sem Fio Logitech 2.4GHz",
+                    "price": 78.5,
+                    "description": "Sem fio 2.4GHz óptico 1000dpi bateria longa",
+                    "brand": "Logitech",
+                    "category": null,
+                    "sku": "SKU-828"
+                }
+            ]
+        },
+        {
+            "group_id": 14,
+            "products": [
+                {
+                    "id": 12,
+                    "name": "Fone de Ouvido JBL TWS",
+                    "price": 299.0,
+                    "description": "Fone de ouvido bluetooth True Wireless com case",
+                    "brand": "JBL",
+                    "category": "Áudio",
+                    "sku": "PROD012"
+                },
+                {
+                    "id": 13,
+                    "name": "Caixa de Som JBL Go 3",
+                    "price": 199.0,
+                    "description": "Caixa de som bluetooth portátil à prova d'água",
+                    "brand": "JBL",
+                    "category": "Áudio",
+                    "sku": "PROD013"
+                },
+                {
+                    "id": 32,
+                    "name": "Caixa de Som Bluetooth JBL Flip 6",
+                    "price": 499.0,
+                    "description": "Caixa de som bluetooth portátil stereo 30W",
+                    "brand": "JBL",
+                    "category": "Áudio",
+                    "sku": "PROD032"
+                },
+                {
+                    "id": 43,
+                    "name": "Fone de Ouvido Bluetooth Xiaomi",
+                    "price": 99.0,
+                    "description": "Fone de ouvido bluetooth in-ear com case",
+                    "brand": "Xiaomi",
+                    "category": "Áudio",
+                    "sku": "PROD043"
+                },
+                {
+                    "id": 44,
+                    "name": "Caixa de Som Bluetooth Xiaomi",
+                    "price": 199.0,
+                    "description": "Caixa de som bluetooth portátil 16W",
+                    "brand": "Xiaomi",
+                    "category": "Áudio",
+                    "sku": "PROD044"
+                },
+                {
+                    "id": 62,
+                    "name": "Fone JBL True Wireless TWS",
+                    "price": 295.0,
+                    "description": "Bluetooth True Wireless com case carregamento",
+                    "brand": "JBL",
+                    "category": null,
+                    "sku": "SKU-800"
+                },
+                {
+                    "id": 63,
+                    "name": "Caixa Som JBL Go 3 Bluetooth",
+                    "price": 195.0,
+                    "description": "Bluetooth portátil à prova d'água IPX7 potência",
+                    "brand": "JBL",
+                    "category": null,
+                    "sku": "SKU-801"
+                },
+                {
+                    "id": 82,
+                    "name": "Caixa Som JBL Flip 6 Bluetooth",
+                    "price": 495.0,
+                    "description": "Bluetooth portátil stereo 30W à prova d'água IPX7",
+                    "brand": "JBL",
+                    "category": null,
+                    "sku": "SKU-820"
+                },
+                {
+                    "id": 93,
+                    "name": "Fone Bluetooth In-Ear Xiaomi",
+                    "price": 95.0,
+                    "description": "Bluetooth in-ear com case carregamento carga rápida",
+                    "brand": "Xiaomi",
+                    "category": null,
+                    "sku": "SKU-831"
+                },
+                {
+                    "id": 94,
+                    "name": "Caixa Som Bluetooth Xiaomi 16W",
+                    "price": 195.0,
+                    "description": "Bluetooth portátil 16W bateria longa duração",
+                    "brand": "Xiaomi",
+                    "category": null,
+                    "sku": "SKU-832"
+                }
+            ]
+        }
+    ]
+}
