@@ -149,19 +149,61 @@ Required environment variables (see `src/config.py`):
 
 ---
 
-## Local development
+## Running the project
 
 ### Prerequisites
 
 - Python 3.12+
-- `uv` package manager
+- `uv` package manager ([install](https://github.com/astral-sh/uv))
 - Docker + Docker Compose
 
 ### Setup
 
-1. Install dependencies: `make setup-project`
-2. Start infrastructure: `make up` (runs migrations automatically)
-3. Run API: `uv run uvicorn src.app:app --reload --host 0.0.0.0 --port 8000`
-4. Run worker: `uv run celery -A src.celery_app.app worker --loglevel=INFO`
+1. **Install dependencies**
+   ```bash
+   make setup-project
+   ```
+   This installs Python packages and sets up pre-commit hooks.
 
-API docs: `http://localhost:8000/docs`
+2. **Create `.env` file**
+   
+   Create a `.env` file in the project root with all required environment variables (see Configuration section above).
+
+3. **Start infrastructure**
+   ```bash
+   make up
+   ```
+   This command:
+   - Starts Docker containers (PostgreSQL, LocalStack, MinIO)
+   - Creates the SQS queue
+   - Applies database migrations
+   
+   To stop infrastructure:
+   ```bash
+   make down
+   ```
+
+4. **Run the API server**
+   ```bash
+   uv run uvicorn src.app:app --reload --host 0.0.0.0 --port 8000
+   ```
+   API will be available at `http://localhost:8000`
+   - Swagger UI: `http://localhost:8000/docs`
+   - Health check: `http://localhost:8000/health`
+
+5. **Run the Celery worker** (in a separate terminal)
+   ```bash
+   uv run celery -A src.celery_app.app worker --loglevel=INFO
+   ```
+   This processes background tasks (importing products and grouping).
+
+### Useful Makefile commands
+
+- `make setup-project` - Install dependencies and setup pre-commit hooks
+- `make up` - Start all infrastructure services
+- `make down` - Stop and remove infrastructure containers
+- `make m-apply` - Apply database migrations
+- `make m-rollback` - Rollback last migration
+- `make m-current` - Show current database version
+- `make m-history` - Show migration history
+- `make run-pre-commit` - Run pre-commit hooks on all files
