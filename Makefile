@@ -13,7 +13,15 @@ up: down
 	@echo "Starting development environment..."
 
 	docker compose -f docker-compose-dev.yml up -d
+	make intra-script
+	make app-script
+
+intra-script:
+	@echo "Running script.py..."
 	uv run script.py
+
+app-script:
+	make m-apply
 
 down:
 	@echo "Stopping and removing development containers..."
